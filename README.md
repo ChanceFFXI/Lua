@@ -1,0 +1,2 @@
+# Lua
+Luas for FFXI
